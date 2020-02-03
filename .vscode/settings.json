@@ -1,3 +1,13 @@
 {
-  "python.pythonPath": "/Users/bradtraversy/.local/share/virtualenvs/lead_manager_react_django-912rtT3t/bin/python"
+  "python.pythonPath": "/Users/bradtraversy/.local/share/virtualenvs/lead_manager_react_django-912rtT3t/bin/python",
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#b3b3b3",
+    "activityBar.activeBorder": "#7070cf",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "statusBar.background": "#999999",
+    "statusBarItem.hoverBackground": "#808080",
+    "statusBar.foreground": "#15202b",
+    "tab.activeBorder": "#b3b3b3"
+  }
 }

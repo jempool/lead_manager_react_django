@@ -7,6 +7,10 @@ export default function Dashboard() {
     <Fragment>
       <Form />
       <Leads />
+      <br />
+      <br />
+      <br />
+      <br />
     </Fragment>
   );
 }
